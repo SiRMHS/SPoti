@@ -307,7 +307,7 @@ if ($langCode -eq 'ru') { $ru = $true }
 
 Write-Host "*****************"
 Write-Host ($lang).Author"" -NoNewline
-Write-Host "@Amd64fox-@SiRMHS" -ForegroundColor DarkYellow
+Write-Host "@SiRMHS" -ForegroundColor DarkYellow
 Write-Host "*****************"`n
 
 # Sending a statistical web query to cutt.ly
